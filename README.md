@@ -1,3 +1,4 @@
+## EXTERNAL HACK For Rust
 ![532523](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/a143f67c-9d47-42bb-86d5-ebdaea2690ec)
 
 > [!NOTE]
