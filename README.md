@@ -11,7 +11,7 @@
 
 <div align="center">
   
-## Freatures 🛠️:
+### Freatures 🛠️:
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
   
-## Screenshots 📖 :
+### Screenshots 📖 :
 
 </div>
 
