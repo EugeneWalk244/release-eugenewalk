@@ -14,9 +14,6 @@
 - AIMBOT (Aim Target) - we have implemented the best aimbot (automatic aiming) with lots of customization options. This allows each of your shots to be the last for your opponent. You can choose the target - it can be a specific body part or just precise aiming.
 - Misc (Tools) - our cheat also has a number of useful tools. For example, there is a function that removes weapon recoil and makes it reload faster. It is also possible to reduce ping, increase FPS by removing unnecessary objects in the scene. There are other useful features.
 
-
----
-
 > [!TIP]
 > 1. Anti-cheats (VAC, FACEIT, ESEA, BATTLEYE, EAC and many others) cannot detect our cheat.
 > 2. Most importantly: the program is completely safe for your Windows system.
