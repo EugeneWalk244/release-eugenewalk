@@ -4,6 +4,7 @@
 
 ![1111](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/922381e0-53c9-4314-b13f-4b0e805f4e8a)
 
+ 
 > [!NOTE]
 > Our cheat is designed specifically to give players the ability to fully control the gameplay and enjoy the game without limitations. We offer an extensive set of features that can be activated and customized according to each player's preferences. Just recently we decided to make our cheat free and available to all players without exception. Thanks to our 24/7 support, we fix your problems on time and keep our cheat on top.
 
@@ -19,6 +20,7 @@
 - AIMBOT (Aim Target) - we have implemented the best aimbot (automatic aiming) with lots of customization options. This allows each of your shots to be the last for your opponent. You can choose the target - it can be a specific body part or just precise aiming.
 - Misc (Tools) - our cheat also has a number of useful tools. For example, there is a function that removes weapon recoil and makes it reload faster. It is also possible to reduce ping, increase FPS by removing unnecessary objects in the scene. There are other useful features.
 
+ 
 > [!TIP]
 > 1. Anti-cheats (VAC, FACEIT, ESEA, BATTLEYE, EAC and many others) cannot detect our cheat.
 > 2. Most importantly: the program is completely safe for your Windows system.
