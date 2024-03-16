@@ -9,10 +9,7 @@
 
 ---
 
-### Freatures 🛠️:
-- ESP (Wallhack) - this feature of our cheat will allow you to see behind walls! You will be able to see players' names, their health, exact distance to them, the contents of crates, various lines (such as sight lines), team affiliation and much more!
-- AIMBOT (Aim Target) - we have implemented the best aimbot (automatic aiming) with lots of customization options. This allows each of your shots to be the last for your opponent. You can choose the target - it can be a specific body part or just precise aiming.
-- Misc (Tools) - our cheat also has a number of useful tools. For example, there is a function that removes weapon recoil and makes it reload faster. It is also possible to reduce ping, increase FPS by removing unnecessary objects in the scene. There are other useful features.
+### Screenshots 📖 :
 
 ---
 
@@ -20,3 +17,10 @@
 > 1. Anti-cheats (VAC, FACEIT, ESEA, BATTLEYE, EAC and many others) cannot detect our cheat.
 > 2. Most importantly: the program is completely safe for your Windows system.
 > 3. Support for most systems: Windows 7/8/8/8.1/10/11 (x32/64) 
+
+---
+
+### Freatures 🛠️:
+- ESP (Wallhack) - this feature of our cheat will allow you to see behind walls! You will be able to see players' names, their health, exact distance to them, the contents of crates, various lines (such as sight lines), team affiliation and much more!
+- AIMBOT (Aim Target) - we have implemented the best aimbot (automatic aiming) with lots of customization options. This allows each of your shots to be the last for your opponent. You can choose the target - it can be a specific body part or just precise aiming.
+- Misc (Tools) - our cheat also has a number of useful tools. For example, there is a function that removes weapon recoil and makes it reload faster. It is also possible to reduce ping, increase FPS by removing unnecessary objects in the scene. There are other useful features.
