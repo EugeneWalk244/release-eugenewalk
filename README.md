@@ -11,7 +11,7 @@
 
 <div align="center">
   
-Freatures 🛠️:
+## Freatures 🛠️:
 
 </div>
 
@@ -26,7 +26,11 @@ Freatures 🛠️:
 
 ---
 
-<H2 align=center>Screenshots 📖 :
+<div align="center">
+  
+## Screenshots 📖 :
+
+</div>
 
 ![412324](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/f20d2ac4-cece-4c07-9c3f-a9e924e5908a)
 
