@@ -19,3 +19,4 @@
 > [!TIP]
 > 1. Anti-cheats (VAC, FACEIT, ESEA, BATTLEYE, EAC and many others) cannot detect our cheat.
 > 2. Most importantly: the program is completely safe for your Windows system.
+> 3. Support for most systems: Windows 7/8/8/8.1/10/11 (x32/64) 
