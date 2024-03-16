@@ -1,5 +1,5 @@
 # EXTERNAL HACK FOR RUST
-# ![532523](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/a143f67c-9d47-42bb-86d5-ebdaea2690ec)
+![532523](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/a143f67c-9d47-42bb-86d5-ebdaea2690ec)
 > Password: exch
 
 ![1](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/68c26ad3-32ed-4ba7-a045-57a8dc52c506)
